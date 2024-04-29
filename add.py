@@ -1,6 +1,6 @@
 # Function to add two numbers
 def add_numbers(num1, num2):
-    return num1 + num2
+    return num5 + num6
 
 # Input numbers from the user
 num1 = float(input("Enter first number: "))
